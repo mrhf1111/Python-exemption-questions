@@ -1,0 +1,3 @@
+# Python-exemption-questions
+ansewer
+以上两个文件分别为python组的两个免试题的答案，具体的题目请见python组群文件
